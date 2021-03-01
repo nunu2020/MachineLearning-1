@@ -15,9 +15,8 @@ Anaconda的下载链接https://www.anaconda.com/products/individual#macos
 下载完成后，双击exe文件进行安装，这里给大家提供一个参考博客https://www.jianshu.com/p/d3a5ec1d9a08
 
 安装过程中重点注意的是：
-
 1.在选择用户时**选just me**，在选择Advanced Installtion Options时**不要勾选第一项** ~~Add Anaconda to my Path environment variable~~
-2.
-3.**在安装完成后在本机中配置环境**。此电脑-右键-属性-高级系统设置--环境变量--系统变量--path--新建添加三条路径，截图里第一条路径就是上面安装Anaconda时自己设置的路径。
+
+2.**在安装完成后在本机中配置环境**。此电脑-右键-属性-高级系统设置--环境变量--系统变量--path--新建添加三条路径，截图里第一条路径就是上面安装Anaconda时自己设置的路径。
 
 ![Image text](https://github.com/ruc-nonpara-statistic/MachineLearning/blob/main/pic/no2.png)
