@@ -11,6 +11,8 @@ Anaconda&Jupyter：Anaconda的下载、jupyter的相关参考文档
 
 courseware：课件以及教材
 
+pic：这个文件夹是用于编辑本网站所用到的一些图，不需要看
+
 >如果文件在线无法预览，可下载至本地查看
 >
 ## github文件下载
