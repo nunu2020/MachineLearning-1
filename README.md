@@ -1,10 +1,8 @@
 # MachineLearning
 ## 内容更新
-2021.3.8 上传第二周课上补充资料（见courseware）、上传jupyter基本介绍文档(见Anaconda&jupyter)
-
-新建文件：第二周作业.md(见Assignment&Solution)
-
 2021.3.15 第三周课上分享的jupyter文件(见courseware)
+
+2021.3.15 下午更新: 第三周课件1、2（courseware）,第三周作业及相关数据（Assignment&Solution）
 
 ## 文件夹说明
 Assignment&Solution：作业模板、作业题、参考答案
