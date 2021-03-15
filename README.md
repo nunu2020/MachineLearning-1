@@ -4,6 +4,8 @@
 
 新建文件：第二周作业.md(见Assignment&Solution)
 
+2021.3.15 第三周课上分享的jupyter文件(见courseware)
+
 ## 文件夹说明
 Assignment&Solution：作业模板、作业题、参考答案
 
