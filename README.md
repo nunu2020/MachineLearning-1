@@ -19,6 +19,9 @@ pic：这个文件夹是用于编辑本网站所用到的一些图，不需要�
 ### 利用在线网址下载github单个文件或者文件夹
 http://zhoudaxiaa.gitee.io/downgit/#/home
 打开这个网址，将你需要下载的文件的网址粘贴到搜索框即可。
+![Image text](https://github.com/ruc-nonpara-statistic/MachineLearning/blob/main/pic/QQ%E6%88%AA%E5%9B%BE20210316172817.png)
+
+![Image text](https://github.com/ruc-nonpara-statistic/MachineLearning/blob/main/pic/QQ%E6%88%AA%E5%9B%BE20210316173201.png)
 ### 直接下载压缩包
 github下载慢,大家直接下载zip
 
