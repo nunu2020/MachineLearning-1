@@ -4,6 +4,8 @@
 
 2021.3.15 下午更新: 第三周课件1、2（courseware）,第三周作业及相关数据（Assignment&Solution）
 
+2021.3.17 更新：第二周参考答案ipynb及html（见Assignment&Solution）
+
 ## 文件夹说明
 Assignment&Solution：作业模板、作业题、参考答案
 
