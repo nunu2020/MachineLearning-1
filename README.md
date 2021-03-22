@@ -1,10 +1,6 @@
 # MachineLearning
 ## 内容更新
-2021.3.15 第三周课上分享的jupyter文件(见courseware)
-
-2021.3.15 下午更新: 第三周课件1、2（courseware）,第三周作业及相关数据（Assignment&Solution）
-
-2021.3.17 更新：第二周参考答案ipynb及html（见Assignment&Solution）
+2021.3.22 上传第四周课件（见courseware）、上传第四周作业要求
 
 ## 文件夹说明
 Assignment&Solution：作业模板、作业题、参考答案
